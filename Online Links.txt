@@ -1,0 +1,3 @@
+http://www.nirsoft.net/countryip/
+
+http://scanme.nmap.org/

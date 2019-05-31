@@ -1,0 +1,9 @@
+server:
+
+nc -l -p XXXX (random port - ex: 4444)
+
+client:
+
+nc serverIP PORT
+
+chat :-) 
